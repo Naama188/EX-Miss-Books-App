@@ -8,7 +8,7 @@ import {BookIndex} from "./pages/BookIndex.jsx"
 
 
 export function App() {
-    const [page, setPage] = useState('home')
+    const [page, setPage] = useState('book')
 
 
 function onSetPage(page) {
